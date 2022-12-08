@@ -26,7 +26,7 @@ The adversarial attack can force a CNN-based model to produce an incorrect outpu
 conda create --name ae python=3.7
 conda activate ae
 ```
-#### Install numpy/pytorch/opencv
+### Install numpy/pytorch/opencv
 ```
 conda install numpy
 conda install pytorch=0.4.1 torchvision cuda90 -c pytorch
