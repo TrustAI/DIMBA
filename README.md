@@ -26,6 +26,12 @@ The adversarial attack can force a CNN-based model to produce an incorrect outpu
 conda create --name ae python=3.7
 conda activate ae
 ```
+#### Install numpy/pytorch/opencv
+```
+conda install numpy
+conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia
+pip install opencv-python
+```
 ### Note: This work is accepted by Machine Learning Journal. Pls find the paper here: [DIMBA: Discretely Masked Black-Box Attack in Single Object Tracking](https://link.springer.com/article/10.1007/s10994-022-06252-2)
 
 
