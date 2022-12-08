@@ -35,7 +35,7 @@ pip install opencv-python
 ### Download Testing dataset
 Download test dataset(e.g. OTB100) and put them into `testing_dataset` directory.
 
-OTB100 [L](http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html)
+OTB100 [Link](http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html)
 ### Note: This work is accepted by Machine Learning Journal. Pls find the paper here: [DIMBA: Discretely Masked Black-Box Attack in Single Object Tracking](https://link.springer.com/article/10.1007/s10994-022-06252-2)
 
 
